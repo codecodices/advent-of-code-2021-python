@@ -1,0 +1,7 @@
+# requirements_dev.txt is used to manage Python dependencies (external libraries) that are used in the development
+# of this project.  They can be installed by executing "pip install -r requirements_dev.txt".
+flake8>=3.9.2
+tox>=3.24.3
+pytest>=6.2.4
+pytest-cov>=2.12.1
+mypy>=0.910
